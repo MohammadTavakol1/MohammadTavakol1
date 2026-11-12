@@ -21,7 +21,6 @@ Me • About • Skills • Projects • Contact
 - I create game mods and automation plugins that are optimized and reliable.
 - Currently expanding knowledge in **C#, C++, .NET, and Reverse Engineering**.
 - Focused on **Oxide/uMod** platform for games like Rust, automating gameplay and server management.
-- Exploring **Godot Engine** for game development and interactive projects.
 - Comfortable developing on **Windows and Linux** environments.
 - Interested in Fullstack tools, automation scripts, APIs, and server-side optimizations.
 
@@ -30,10 +29,16 @@ Me • About • Skills • Projects • Contact
 ## Skills & Tools
 
 ### Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### API & Backend Development
+- **RESTful APIs** – Designing and integrating APIs for web apps and game servers.
+- **JSON / XML** – Data exchange formats.
+- **Authentication** – Token-based (JWT), API keys, and session management.
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
